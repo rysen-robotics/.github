@@ -1,8 +1,8 @@
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="../images/logo_cn_dark.png">
-        <source media="(prefers-color-scheme: light)" srcset="../images/logo_cn.png">
-        <img src="../images/logo_cn.png" height="80" alt="RysenRobotics">
+        <source media="(prefers-color-scheme: dark)" srcset="../images/logo_dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="../images/logo.png">
+        <img src="../images/logo.png" height="80" alt="RysenRobotics">
     </picture>
 </div>
 <br>
